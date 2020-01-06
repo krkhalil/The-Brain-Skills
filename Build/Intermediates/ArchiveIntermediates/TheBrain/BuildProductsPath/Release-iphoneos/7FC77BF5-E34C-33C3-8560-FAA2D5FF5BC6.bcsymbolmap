@@ -1,0 +1,128 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController testBrainButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/main.m
+main
+-[CategoryVC viewDidLoad]
+-[CategoryVC ascendingButtonTouched:]
+-[CategoryVC descendingButtonTouched:]
+_OBJC_CLASS_$_CategoryVC
+_OBJC_METACLASS_$_CategoryVC
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/CategoryVC.m
+-[GameVC viewDidLoad]
+-[GameVC timerLabel:]
+-[GameVC b1:]
+-[GameVC b2:]
+-[GameVC b3:]
+-[GameVC b4:]
+-[GameVC b5:]
+-[GameVC b6:]
+-[GameVC b7:]
+-[GameVC b8:]
+-[GameVC b9:]
+-[GameVC b10:]
+-[GameVC b11:]
+-[GameVC b12:]
+-[GameVC refreshButtonTouched:]
+-[GameVC setScreen]
+-[GameVC showFailAlert]
+___23-[GameVC showFailAlert]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GameVC showPassedAlert]
+___25-[GameVC showPassedAlert]_block_invoke
+___copy_helper_block_.84
+___destroy_helper_block_.85
+-[GameVC setButtons]
+-[GameVC shuffle:]
+-[GameVC setAscendingArray]
+-[GameVC setDescendingArray]
+-[GameVC timeLabel]
+-[GameVC setTimeLabel:]
+-[GameVC refreshButton]
+-[GameVC setRefreshButton:]
+-[GameVC topLabel]
+-[GameVC setTopLabel:]
+-[GameVC type]
+-[GameVC setType:]
+-[GameVC b1]
+-[GameVC setB1:]
+-[GameVC b2]
+-[GameVC setB2:]
+-[GameVC b3]
+-[GameVC setB3:]
+-[GameVC b4]
+-[GameVC setB4:]
+-[GameVC b5]
+-[GameVC setB5:]
+-[GameVC b6]
+-[GameVC setB6:]
+-[GameVC b7]
+-[GameVC setB7:]
+-[GameVC b8]
+-[GameVC setB8:]
+-[GameVC b9]
+-[GameVC setB9:]
+-[GameVC b10]
+-[GameVC setB10:]
+-[GameVC b11]
+-[GameVC setB11:]
+-[GameVC b12]
+-[GameVC setB12:]
+-[GameVC .cxx_destruct]
+_OBJC_CLASS_$_GameVC
+_OBJC_IVAR_$_GameVC.index
+_OBJC_IVAR_$_GameVC.timer
+_OBJC_IVAR_$_GameVC.t
+_OBJC_IVAR_$_GameVC._type
+_OBJC_IVAR_$_GameVC._timeLabel
+_OBJC_IVAR_$_GameVC._b1
+_OBJC_IVAR_$_GameVC.dataArrayOriginal
+_OBJC_IVAR_$_GameVC._b2
+_OBJC_IVAR_$_GameVC._b3
+_OBJC_IVAR_$_GameVC._b4
+_OBJC_IVAR_$_GameVC._b5
+_OBJC_IVAR_$_GameVC._b6
+_OBJC_IVAR_$_GameVC._b7
+_OBJC_IVAR_$_GameVC._b8
+_OBJC_IVAR_$_GameVC._b9
+_OBJC_IVAR_$_GameVC._b10
+_OBJC_IVAR_$_GameVC._b11
+_OBJC_IVAR_$_GameVC._b12
+_OBJC_IVAR_$_GameVC.dataArrayShuffeled
+___block_descriptor_tmp
+___block_descriptor_tmp.86
+_OBJC_IVAR_$_GameVC._refreshButton
+_OBJC_IVAR_$_GameVC._topLabel
+_OBJC_IVAR_$_GameVC.data
+_OBJC_METACLASS_$_GameVC
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/GameVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/GameVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__25-[GameVC showPassedAlert]_block_invoke
+__23-[GameVC showFailAlert]_block_invoke
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/TheBrain/AppDelegate.h

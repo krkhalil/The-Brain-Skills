@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/60 Dollars Apps/TheBrain/Build/Intermediates/ArchiveIntermediates/TheBrain/InstallationBuildProductsLocation/Applications/TheBrain.app
